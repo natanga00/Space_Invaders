@@ -1,3 +1,3 @@
 # Space_Invaders
 
-Este trabalho foi feito no final do semestre passado. Foi nos desafiado a usar a biblioteca Pygame.
+Este trabalho foi feito no final do semestre passado. Foi nos desafiado a usar a biblioteca Pygame para otimizar o jogo.
