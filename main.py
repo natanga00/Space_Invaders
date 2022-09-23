@@ -80,7 +80,7 @@ invader_X = []
 invader_Y = []
 invader_Xchange = []
 invader_Ychange = []
-no_of_invaders = 10
+no_of_invaders = 25
 image_invader = 'alien1.png'
 
 background_image = 'bk1.png'
@@ -94,7 +94,7 @@ bulletImage = pygame.image.load('data/bullet.png')
 bullet_X = 0
 bullet_Y = 500
 bullet_Xchange = 0
-bullet_Ychange = 12
+bullet_Ychange = 20
 bullet_state = "rest"
 background = Background()
 
